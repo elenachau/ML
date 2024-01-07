@@ -8,3 +8,4 @@ Welcome to my machine learning practice repository! This repository is dedicated
 - [gender](https://github.com/elenachau/machine-learning/blob/main/gender.ipynb)
 - [diabetes](https://github.com/elenachau/machine-learning/blob/main/diabetes.ipynb)
 - [breast-cancer](https://github.com/elenachau/machine-learning/blob/main/breast-cancer.ipynb)
+- [social-advertising](https://github.com/elenachau/machine-learning/blob/main/social-advertising.ipynb)
