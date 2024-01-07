@@ -5,3 +5,4 @@ Welcome to my machine learning practice repository! This repository is dedicated
 ## Workbooks
 - [red-wine-quality](https://github.com/elenachau/machine-learning/blob/main/red-wine-quality.ipynb)
 - [heart-disease](https://github.com/elenachau/machine-learning/blob/main/heart-disease.ipynb)
+- [gender](https://github.com/elenachau/machine-learning/blob/main/gender.ipynb)
