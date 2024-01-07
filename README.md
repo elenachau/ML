@@ -7,3 +7,4 @@ Welcome to my machine learning practice repository! This repository is dedicated
 - [heart-disease](https://github.com/elenachau/machine-learning/blob/main/heart-disease.ipynb)
 - [gender](https://github.com/elenachau/machine-learning/blob/main/gender.ipynb)
 - [diabetes](https://github.com/elenachau/machine-learning/blob/main/diabetes.ipynb)
+- [breast-cancer](https://github.com/elenachau/machine-learning/blob/main/breast-cancer.ipynb)
