@@ -4,8 +4,8 @@ Welcome to my machine learning practice repository! This repository is dedicated
 
 ## Workbooks
 - [red-wine-quality](https://github.com/elenachau/machine-learning/blob/main/red_wine_quality.ipynb)
-- [heart-disease](https://github.com/elenachau/machine-learning/blob/main/heart-disease.ipynb)
+- [heart-disease](https://github.com/elenachau/machine-learning/blob/main/heart_disease.ipynb)
 - [gender](https://github.com/elenachau/machine-learning/blob/main/gender.ipynb)
 - [diabetes](https://github.com/elenachau/machine-learning/blob/main/diabetes.ipynb)
-- [breast-cancer](https://github.com/elenachau/machine-learning/blob/main/breast-cancer.ipynb)
-- [social-advertising](https://github.com/elenachau/machine-learning/blob/main/social-advertising.ipynb)
+- [breast-cancer](https://github.com/elenachau/machine-learning/blob/main/breast_cancer.ipynb)
+- [social-advertising](https://github.com/elenachau/machine-learning/blob/main/social_advertising.ipynb)
